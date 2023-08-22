@@ -1,5 +1,5 @@
 # ColorSensor
-The objective of this project was to construct a device capable of detecting colors using a single
+The objective of this group project was to construct a device capable of detecting colors using a single
 photodiode and a RGB LED.
 
 The market for color detecting sensors of this type has seen a steady growth in the recent years, since they are used in various industries including automotive, manufacturing, textiles, chemical, food and beverage, pharmaceutical. The purposes of this device are varied: in consumer electronics they are used for backlight control and display calibration, in manufacturing for detecting components and matching their colors, and they are even used for fluid and gas analysis and in the pharmaceutical field. The characteristic most sought after by producers is the ability for the sensor to be able to differentiate accurately and consistently a lot of shades of colors
